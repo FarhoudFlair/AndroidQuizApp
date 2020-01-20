@@ -9,8 +9,8 @@ ENHANCEMENTS:
 I tested my code on the AVD using the Nexus 5X API 28 device with Android 9.0
 
 
-![Initially starting the app](images/App_image_1)
+![Initially starting the app](/images/App_Image_1.png)
 
-![Selecting an answer](images/App_image_2)
+![Selecting an answer](/images/App_Image_2.png)
 
-![Submitting and getting results](/images/App_Image_3)
+![Submitting and getting results](/images/App_Image_3.png)
