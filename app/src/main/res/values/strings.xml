@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="a_button_label">A</string>
+    <string name="b_button_label">B</string>
+    <string name="c_button_label">C</string>
+    <string name="d_button_label">D</string>
+    <string name="e_button_label">E</string>
+    <string name="prev_button_label">PREV</string>
+    <string name="submit_button_label">SUBMIT</string>
+    <string name="next_button_label">NEXT</string>
+    <string name="random_button_label">RANDOM QUESTION</string>
+
+    <string name="question_text">Is me</string>
+
+    <string name="question1">What does JSON stand for?\n
+                        [A] Java Script Object Native\n
+                        [B] Java Script Oriented Notation\n
+                        [C] Java Script Object Notation\n
+                        [D] Java Script Orientation Nerd\n
+                        [E] None of the above{C}</string>
+    <string name="question2">What is the range of a short data type in Java?\n
+                        [A] -128 to 127\n
+                        [B] -32768 to 32767\n
+                        [C] -2147483648 to 2147483647\n
+                        [D] -127 to 128\n
+                        [E] None of the above{B}</string>
+    <string name="question3">Which one is a valid declaration of a boolean?\n
+                        [A] boolean b1 = 1;\n
+                        [B] boolean b2 = \'false\';\n
+                        [C] boolean b3 = false;\n
+                        [D] boolean b4 = \'true\'\n
+                        [E] boolean b5 = \'0\'{C}</string>
+    <string name="question4">Which of the following loops will execute the body of the
+        loop even when the condition controlling the loop is initially false?\n
+                        [A] while\n
+                        [B] for\n
+                        [C] switch\n
+                        [D] for-in\n
+                        [E] do-while{E}</string>
+    <string name="question5">Which of these jump statements can skip processing the
+        remainder of the code in its body for a particular iteration?\n
+                        [A] break\n
+                        [B] return\n
+                        [C] exit\n
+                        [D] continue\n
+                        [E] All of the above{D}</string>
+    <string name="question6">Which of these classes is a superclass of the String and StringBuffer class?\n
+                        [A] java.util\n
+                        [B] ArrayList\n
+                        [C] String\n
+                        [D] java.lang\n
+                        [E] There is no superclass\n{D}</string>
+    <string name="question7">Which of these operators can be used to concatenate two or more String objects?\n
+                        [A] +\n
+                        [B] +=\n
+                        [C] &amp;\n
+                        [D] ||\n
+                        [E] .add{A}</string>
+    <string name="question8">Which of these standard collection classes implements a dynamic array?\n
+                        [A] AbstractList\n
+                        [B] LinkedList\n
+                        [C] ArrayList\n
+                        [D] AbstractSet\n
+                        [E] SkipList{C}</string>
+    <string name="question9">Which of these methods is used to obtain the size of an ArrayList?\n
+                        [A] capacity()\n
+                        [B] length()\n
+                        [C] size()\n
+                        [D] index()\n
+                        [E] max(){C}</string>
+    <string name="question10">What are the stages of the Activity lifecycle?\n
+                        [A] onCreate(), onStart(), onResume(), onPause(), onStop(), onDestroy()\n
+                        [B] onCreate(), onStart(), onResume(), onStop(), onDestroy()\n
+                        [C] onStart(), onResume(), onPause(), onDestroy(), onStop()\n
+                        [D] onStart(), onResume(), onPause(), onStop(), onDestroy(), onClose()\n
+                        [E] None of the above{A}</string>
+</resources>
